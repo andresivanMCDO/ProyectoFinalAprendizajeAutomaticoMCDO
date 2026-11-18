@@ -1,0 +1,7 @@
+# Probado con Python 3.12 (pyenv 3.12.0). Rangos amplios para que Streamlit Community Cloud resuelva sin conflictos.
+streamlit>=1.51,<2
+pandas>=2.2,<4
+numpy>=2.0,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+scipy>=1.13,<2

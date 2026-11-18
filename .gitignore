@@ -1,0 +1,15 @@
+# entornos y cachés
+.venv/
+.venv_test/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# NUNCA subir datos reales ni credenciales a un repo público
+*.env
+.env
+secrets.toml
+.streamlit/secrets.toml
+tonelajes_sector_dia.csv
+predicciones_prueba.csv
+*.ipynb
